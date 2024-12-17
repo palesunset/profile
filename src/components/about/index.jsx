@@ -126,7 +126,7 @@ const AboutDetails = () => {
 
         <ItemLayout className={"col-span-full lg:col-span-12 row-span-2 flex-col items-start"}>
         <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.2rem", fontWeight: "normal", marginBottom: "20px", marginTop: "30px" }}>
-            Skills
+            SKILLS
           </h2>
           <img
             className="w-full h-auto"
