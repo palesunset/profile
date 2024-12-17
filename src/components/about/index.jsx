@@ -23,7 +23,7 @@ const AboutDetails = () => {
             WORK EXPERIENCE
           </h2>
           
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "4px" }}>
+          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "2px",  marginTop: "20px" }}>
           Technical Support Engineer | Fiber Infrastructure and Network Services Inc.
           </h2>
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
@@ -42,7 +42,7 @@ const AboutDetails = () => {
           <li>Creation and Issuance of Methods of Procedure (MOP) and EWP (Engineering Work Plan).</li>
           </ul>
 
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "4px" }}>
+          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "2px",  marginTop: "20px" }}>
           Project Manager (Consultant) | Mozark Philippines Inc.
           </h2>
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
@@ -56,7 +56,7 @@ const AboutDetails = () => {
           <li>Managed project resources and budgets by optimizing procurement processes and negotiating vendor contracts, effectively reducing costs by 10% while maintaining project quality and adherence to constraints.</li>
           </ul>
 
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "4px" }}>
+          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "2px",  marginTop: "20px" }}>
           Service Engineer | Advent Green Energy Philippines Inc.
           </h2>
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
@@ -68,7 +68,7 @@ const AboutDetails = () => {
           <li>Reacted swiftly to service calls and emergencies by applying real-time diagnostic techniques, achieving a 95% first-call resolution rate, and guaranteeing continuous operation of fuel cell systems.</li>
           </ul>
 
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "4px" }}>
+          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "2px",  marginTop: "20px" }}>
           Telecom Engineer | Fujitsu Telecom System Philippines Inc.
           </h2>
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
@@ -84,13 +84,13 @@ const AboutDetails = () => {
           <li>Handled the documentation for 10+ complex projects, including detailed plans, schedules, progress reports, and change requests, which improved knowledge dissemination efficiency by 25% and enhanced transparency, leading to a 15% reduction in project delays.</li>
           </ul>
 
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "4px" }}>
+          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "2px",  marginTop: "20px" }}>
           Operations Supervisor | Wuhan FiberHome International Technologies Phils., Inc
           </h2>
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
           February 2019 – September 2020 | Mandaluyong City, Philippines
           </p>
-          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
+         <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
           <li>Supervised and train a team of 20+ technicians in subscriber line installation, optimizing resource allocation to increase installation efficiency by 30% and productivity by 25%.</li>
           <li>Assigned 1000+ work orders monthly, conducted comprehensive performance evaluations, and implemented a recognition program that improved team morale by 20% and performance by 15%.</li>
           <li>Coordinated with stakeholders to ensure seamless installations, reducing service-related issues by 15% and boosting customer satisfaction by 25%, maintaining positive client relationships.</li>
@@ -99,10 +99,10 @@ const AboutDetails = () => {
         </ItemLayout>
 
         <ItemLayout className={"col-span-full lg:col-span-12 row-span-2 flex-col items-start"}>
-        <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.2rem", fontWeight: "normal", marginBottom: "0.5px" }}>
-            CERTIFICATIONS
-          </h2>
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-white" style={{ fontSize: "1.1rem", fontWeight: "normal", marginTop: "1", marginBottom: "5" }}>
+        <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.2rem", fontWeight: "normal", marginBottom: "20px" }}>
+          CERTIFICATIONS
+        </h2>
+        <h2 className="text-lg md:text-xl text-left w-full capitalize text-white" style={{ fontSize: "1.1rem", fontWeight: "normal", marginTop: "25px", marginBottom: "5px" }}>
           Construction Occupational Safety and Health (COSH) <br />
           Certified Six Sigma Yellow Belt (CSSYB) <br />
           Project Initiation: Starting a Successful Project <br />
@@ -110,17 +110,19 @@ const AboutDetails = () => {
           5G New Radio <br />
           5G New Radio Workshop <br />
           5G End-to-End Architecture <br />
-          </h2>
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.2rem", fontWeight: "normal", marginBottom: "0.5px" }}>
-            TRAININGS
-          </h2>
-          <h2 className="text-lg md:text-xl text-left w-full capitalize text-white" style={{ fontSize: "1.1rem", fontWeight: "normal", marginTop: "1", marginBottom: "5" }}>
+        </h2>
+  
+        {/* Add margin-top to create space between certifications and training */}
+        <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.2rem", fontWeight: "normal", marginBottom: "20px", marginTop: "30px" }}>
+          TRAININGS
+        </h2>
+  
+        <h2 className="text-lg md:text-xl text-left w-full capitalize text-white" style={{ fontSize: "1.1rem", fontWeight: "normal", marginTop: "25px", marginBottom: "5px" }}>
           Fire Detection and Alarm System Design and Installation <br />
           Cisco Certified Network Associate (CCNA) Training Bootcamp <br />
           Data Analytics <br />
-          </h2>
-
-        </ItemLayout>
+        </h2>
+      </ItemLayout>
 
         <ItemLayout className={"col-span-full lg:col-span-12 row-span-2 flex-col items-start"}>
         <h2 className="text-xl md:text-2xl text-left w-full capitalize text-accent">
