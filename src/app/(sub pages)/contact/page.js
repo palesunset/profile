@@ -23,7 +23,7 @@ export default function Contact() {
             Connect with Me
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-          If you're looking for a reliable and trustworthy partner to manage your projects or
+          If you are looking for a reliable and trustworthy partner to manage your projects or
           collaborate with you in building them with honesty and integrity,
           please don't hesitate to reach out by filling out the form below.
           </p>
