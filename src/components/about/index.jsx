@@ -22,6 +22,7 @@ const AboutDetails = () => {
           <h2 className="text-xl md:text-2xl text-left w-full capitalize text-accent">
             WORK EXPERIENCE
           </h2>
+          
           <h2 className="text-lg md:text-xl text-left w-full capitalize text-accent" style={{ fontSize: "1.125rem", fontWeight: "normal", marginBottom: "4px" }}>
           Technical Support Engineer | Fiber Infrastructure and Network Services Inc.
           </h2>
