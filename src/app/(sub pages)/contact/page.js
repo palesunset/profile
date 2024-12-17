@@ -25,7 +25,7 @@ export default function Contact() {
           <p className="text-center font-light text-sm xs:text-base">
           If you are looking for a reliable and trustworthy partner to manage your projects or
           collaborate with you in building them with honesty and integrity,
-          please don't hesitate to reach out by filling out the form below.
+          please do not hesitate to reach out by filling out the form below.
           </p>
         </div>
         <Form />
