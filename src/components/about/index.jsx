@@ -28,7 +28,7 @@ const AboutDetails = () => {
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
           October 2022 – Present | Taguig City, Philippines
           </p>
-          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ marginTop: '15px', listStylePosition: 'inside', textAlign: 'left' }}>
+          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
           <li>Conduct site survey, audit and onsite activities (Card Insertion, Patching).</li>
           <li>Processing of TSSR.</li>
           <li>Creation and Issuance of Engineering Workplan.</li>
@@ -47,7 +47,7 @@ const AboutDetails = () => {
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
           May 2022 – September 2022 | Mandaluyong City, Philippines
           </p>
-          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ marginTop: '15px', listStylePosition: 'inside', textAlign: 'left' }}>
+          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
           <li>Orchestrated strategic development and management of project elements by implementing Agile methodologies, leading to a 15% improvement in project delivery timelines.</li>
           <li>Fostered a collaborative and high-performing project team by introducing regular Scrum meetings and clear communication protocols, resulting in a 10% increase in productivity and on-time milestones.</li>
           <li>Demonstrated strong decision-making by navigating supply chain disruptions and resource constraints, enabling the project to meet all key milestones on time, improving client satisfaction by 30%.</li>
@@ -61,7 +61,7 @@ const AboutDetails = () => {
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
           October 2021 – April 2022 | Paranaque City, Philippines
           </p>
-          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ marginTop: '15px', listStylePosition: 'inside', textAlign: 'left' }}>
+          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
           <li>Executed thorough inspections, preventive maintenance, and timely repairs on 50+ fuel cell systems at cell sites using advanced diagnostic tools, ensuring 99% system uptime and peak performance.</li>
           <li>Employed advanced diagnostic tools for rapid troubleshooting, reducing system downtime by 25% and enhancing operational efficiency, leading to a 20% increase in overall system reliability.</li>
           <li>Reacted swiftly to service calls and emergencies by applying real-time diagnostic techniques, achieving a 95% first-call resolution rate, and guaranteeing continuous operation of fuel cell systems.</li>
@@ -76,7 +76,7 @@ const AboutDetails = () => {
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
           September 2017 – January 2019 | Makati City, Philippines
           </p>
-          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ marginTop: '15px', listStylePosition: 'inside', textAlign: 'left' }}>
+          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
           <li>Conducted 30+ site surveys to assess Wi-Fi infrastructure requirements, developing optimized network design plans that improved connectivity by 20%.</li>
           <li>Led and managed cross-functional teams of up to 15 technicians, and contractors, ensuring project completion on time and within budget, with a 98% success rate.</li>
           <li>Generated weekly project status reports, highlighting key metrics, achievements, and potential risks, which facilitated informed decision-making and reduced project delays by 15%.</li>
@@ -89,7 +89,7 @@ const AboutDetails = () => {
           <p className="text-sm md:text-base text-left w-full text-accent" style={{ marginTop: "0", marginBottom: "10", fontSize: "0.8rem" }}>
           February 2019 – September 2020 | Mandaluyong City, Philippines
           </p>
-          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ marginTop: '15px', listStylePosition: 'inside', textAlign: 'left' }}>
+          <ul className="font-light text-xs sm:text-sm md:text-base list-disc pl-5" style={{ textAlign: 'left', marginTop: '15px' }}>
           <li>Supervised and train a team of 20+ technicians in subscriber line installation, optimizing resource allocation to increase installation efficiency by 30% and productivity by 25%.</li>
           <li>Assigned 1000+ work orders monthly, conducted comprehensive performance evaluations, and implemented a recognition program that improved team morale by 20% and performance by 15%.</li>
           <li>Coordinated with stakeholders to ensure seamless installations, reducing service-related issues by 15% and boosting customer satisfaction by 25%, maintaining positive client relationships.</li>
